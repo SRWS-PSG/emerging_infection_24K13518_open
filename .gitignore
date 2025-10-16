@@ -1,0 +1,34 @@
+# Env and secrets
+.env
+.env.*
+.streamlit/
+.streamlit/secrets.toml
+config/credentials.json
+config/token.json
+
+# Caches and build
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Data files to avoid committing
+*.log
+*.sqlite
+# Evaluation records may contain sensitive data
+evaluation_records.json
+emerging_infection_24K13518_open/

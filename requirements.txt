@@ -1,0 +1,45 @@
+# Core web framework
+streamlit
+
+# Data processing
+pandas
+numpy
+
+# Google API integration
+gspread
+oauth2client
+google-auth
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# OpenAI API
+openai
+
+# Environment variable management
+python-dotenv
+
+# PDF processing
+pdfminer.six
+
+# Scientific computing (for sample size calculation)
+scipy
+statsmodels
+matplotlib
+
+# Testing framework
+pytest
+pytest-mock
+
+# Standard library modules (no installation required):
+# - os
+# - time
+# - random
+# - datetime
+# - json
+# - io
+# - re
+# - sys
+# - glob
+# - traceback
+# - argparse
