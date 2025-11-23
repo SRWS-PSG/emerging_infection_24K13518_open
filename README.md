@@ -15,3 +15,7 @@ Folder overview
 - python_pdf_extraction: Extraction and summarization using OpenAI API and Google Sheets/Drive
 - heroku_form: Streamlit form and Heroku settings
 - results_analysis: Scripts and outputs used for analyzing study results
+
+Funding
+- This study is funded by KAKENHI-PROJECT-24K13518.
+- The study was registered with the UMIN Clinical Trials Registry (UMIN000058346). 
